@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VashSorena": {
+      "commandName": "Project",
+      "commandLineArgs": "-o detect -s \"c:\\temp\\test\\History.txt.Email=[russiawolf09@gmail.com]ID=[IUEUAVTIBIPJEOSJ].encrypt\" -d C:\\Temp\\decrypted\\"
+    }
+  }
+}
